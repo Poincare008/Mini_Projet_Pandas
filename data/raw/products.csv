@@ -1,0 +1,61 @@
+product_id,category,brand,product_name,unit_price
+P001,Laptop,HP,Ultrabook 14,1681.08
+P002,Laptop,ASUS,Notebook 15,1058.14
+P003,Livre,Manning,Data Engineering,40.16
+P004,Accessoire,Anker,SSD externe,91.27
+P005,Laptop,HP,Gaming 16,1123.49
+P006,Accessoire,Anker,Dock USB-C,75.23
+P007,Logiciel,Microsoft,Licence IDE,308.43
+P008,Logiciel,JetBrains,Suite bureautique,68.48
+P009,Cours,OpenSkills,NLP,157.91
+P010,Livre,Manning,Python pour la Data,28.28
+P011,Cours,DataCampX,NLP,41.85
+P012,Livre,O'Reilly,Statistiques,74.3
+P013,Livre,Eyrolles,Statistiques,61.14
+P014,Cours,DataCampX,Python & Pandas,120.86
+P015,Cloud,AWS,Crédit 100$,215.62
+P016,Laptop,Apple,Gaming 16,1572.54
+P017,Logiciel,JetBrains,Licence IDE,108.73
+P018,Cours,DeepLearners,Deep Learning,52.97
+P019,Cours,DataCampX,Deep Learning,121.48
+P020,Laptop,HP,Workstation 15,1817.26
+P021,Cours,DeepLearners,NLP,151.84
+P022,Livre,Eyrolles,Statistiques,50.57
+P023,Logiciel,JetBrains,Antivirus,132.18
+P024,Cours,AI-Lab,NLP,133.87
+P025,Cours,DeepLearners,SQL avancé,95.45
+P026,Accessoire,Generic,Clavier,95.37
+P027,Laptop,HP,Workstation 15,1016.89
+P028,Accessoire,Logitech,Webcam,26.12
+P029,Livre,Manning,IA pratique,26.81
+P030,Cloud,OVH,Crédit 50$,408.53
+P031,Cours,DataCampX,Data Viz,165.54
+P032,Laptop,Dell,Notebook 15,756.36
+P033,Accessoire,Samsung,Souris,119.22
+P034,Logiciel,Adobe,Suite bureautique,294.16
+P035,Livre,Eyrolles,IA pratique,52.24
+P036,Accessoire,Samsung,SSD externe,130.05
+P037,Cours,AI-Lab,ML supervisé,120.19
+P038,Cours,DeepLearners,ML supervisé,98.38
+P039,Cours,OpenSkills,MLOps,179.66
+P040,Cloud,OVH,Crédit 100$,141.14
+P041,Livre,O'Reilly,Data Engineering,46.48
+P042,Cloud,Azure,Crédit 500$,68.31
+P043,Cours,OpenSkills,NLP,119.53
+P044,Logiciel,Microsoft,Antivirus,238.63
+P045,Cloud,Azure,Crédit 250$,349.73
+P046,Cours,OpenSkills,ML supervisé,125.59
+P047,Cours,DeepLearners,SQL avancé,122.9
+P048,Cours,OpenSkills,Data Viz,74.61
+P049,Logiciel,JetBrains,Outil BI,308.72
+P050,Livre,Manning,Deep Learning,24.97
+P051,Accessoire,Samsung,SSD externe,51.59
+P052,Laptop,HP,Ultrabook 14,1932.53
+P053,Cloud,Azure,Crédit 100$,325.9
+P054,Laptop,HP,Workstation 15,1341.69
+P055,Laptop,Lenovo,Notebook 15,1771.15
+P056,Logiciel,OpenSource,Suite bureautique,144.68
+P057,Cours,OpenSkills,Deep Learning,55.74
+P058,Cloud,AWS,Crédit 100$,222.36
+P059,Cours,DataCampX,SQL avancé,108.25
+P060,Laptop,ASUS,Notebook 15,813.91

@@ -1,0 +1,501 @@
+customer_id,age,gender,city,segment,signup_date
+C0001,28,M,Gonaïves,Entreprise,2025-09-26
+C0002,16,M,Gonaïves,Professionnel,2024-01-19
+C0003,unknown,M,Saint-Marc,Indépendant,2024-05-05
+C0004,46,F,Port-au-Prince,Professionnel,2024-11-16
+C0005,19,M,Cap-Haïtien,Professionnel,2024-11-21
+C0006,20,M,Port-au-Prince,Entreprise,2023-11-04
+C0007,44,F,Port-au-Prince,Professionnel,2025-09-29
+C0008,52,M,Paris,Étudiant,2024-03-28
+C0009,20,M,Saint-Marc,Professionnel,2025-06-17
+C0010,26,F,,Étudiant,2025-09-22
+C0011,32,M,Gonaïves,Entreprise,2024-08-29
+C0012,43,F,Gonaïves,Étudiant,2023-07-21
+C0013,21,M,Jérémie,Étudiant,2024-02-22
+C0014,27,Autre,Dakar,Étudiant,2024-01-30
+C0015,35,F,Dakar,Indépendant,2024-03-10
+C0016,32,M,Gonaïves,Étudiant,2024-01-08
+C0017,26,F,Cap-Haïtien,Professionnel,2024-09-10
+C0018,28,M,Les Cayes,Indépendant,2025-08-22
+C0019,18,,Saint-Marc,Étudiant,2023-11-21
+C0020,27,F,Les Cayes,Entreprise,2024-11-05
+C0021,unknown,F,Fort-Liberté,Étudiant,2024-09-21
+C0022,31,F,Saint-Marc,Étudiant,2025-01-16
+C0023,25,,Cap-Haïtien,Professionnel,2025-07-04
+C0024,unknown,F,Cap-Haïtien,Indépendant,2023-09-03
+C0025,37,F,Cap-Haïtien,Étudiant,2024-01-12
+C0026,30,F,Port-au-Prince,Professionnel,2024-05-15
+C0027,32,F,Port-au-Prince,Étudiant,2024-12-18
+C0028,29,M,Santo Domingo,Professionnel,2023-12-06
+C0029,29,M,Gonaïves,Professionnel,2024-08-12
+C0030,23,M,Port-au-Prince,Professionnel,2024-11-11
+C0031,32,F,Saint-Marc,Professionnel,2024-11-05
+C0032,28,M,Montréal,Étudiant,2025-05-25
+C0033,46,M,Port-au-Prince,Professionnel,2025-09-24
+C0034,42,F,Paris,Professionnel,2024-08-03
+C0035,32,F,Dakar,Professionnel,2023-10-08
+C0036,23,M,Hinche,Étudiant,2025-10-19
+C0037,20,F,Fort-Liberté,Professionnel,2023-11-04
+C0038,unknown,M,Port-au-Prince,Professionnel,2023-12-02
+C0039,31,Autre,Abidjan,Étudiant,2025-04-10
+C0040,33,F,Gonaïves,Étudiant,2024-05-26
+C0041,16,F,Dakar,Professionnel,2025-07-20
+C0042,36,Autre,Saint-Marc,Entreprise,2024-02-02
+C0043,33,M,Port-au-Prince,Étudiant,2024-03-25
+C0044,20,F,Port-au-Prince,Indépendant,2025-01-30
+C0045,25,M,Mirebalais,Professionnel,2025-10-15
+C0046,31,M,Saint-Marc,Entreprise,2023-07-26
+C0047,29,M,Port-au-Prince,Professionnel,2024-11-09
+C0048,27,M,,Professionnel,2023-10-04
+C0049,28,F,Paris,Professionnel,2024-04-14
+C0050,27,F,Les Cayes,Indépendant,2024-01-15
+C0051,30,M,Les Cayes,Professionnel,2024-02-01
+C0052,41,F,Port-au-Prince,Professionnel,2025-06-23
+C0053,16,M,Montréal,Professionnel,2025-01-22
+C0054,27,M,Cap-Haïtien,Entreprise,2024-10-21
+C0055,30,F,Paris,Étudiant,2024-09-23
+C0056,31,M,Cap-Haïtien,Professionnel,2025-11-06
+C0057,26,F,Saint-Marc,Professionnel,2024-08-11
+C0058,16,M,Port-au-Prince,Indépendant,2025-07-30
+C0059,32,F,Port-au-Prince,Professionnel,2024-02-15
+C0060,43,M,Montréal,Professionnel,2024-04-10
+C0061,17,M,Les Cayes,Indépendant,2023-09-07
+C0062,36,F,Jacmel,Professionnel,2024-02-14
+C0063,26,M,Abidjan,Étudiant,2025-01-20
+C0064,29,M,Abidjan,Étudiant,2023-07-29
+C0065,21,M,Paris,Étudiant,2024-12-11
+C0066,26,M,Port-au-Prince,Étudiant,2025-02-25
+C0067,39,Autre,Hinche,Professionnel,2023-09-23
+C0068,34,F,Paris,Entreprise,2025-01-16
+C0069,43,M,Cap-Haïtien,Entreprise,2025-10-08
+C0070,38,F,Port-au-Prince,Étudiant,2024-10-19
+C0071,33,M,Paris,Professionnel,2023-12-30
+C0072,43,M,Les Cayes,Étudiant,2025-06-28
+C0073,33,F,Saint-Marc,Indépendant,2024-10-25
+C0074,36,F,Kinshasa,Étudiant,2025-08-21
+C0075,27,M,Hinche,Professionnel,2024-04-07
+C0076,30,F,Gonaïves,Étudiant,2024-10-13
+C0077,23,M,Cap-Haïtien,Professionnel,2025-02-21
+C0078,37,F,Gonaïves,Professionnel,2025-05-25
+C0079,20,M,Port-au-Prince,Entreprise,2024-07-25
+C0080,35,F,Montréal,Étudiant,2024-04-22
+C0081,27,F,Paris,Indépendant,2023-08-22
+C0082,38,M,Cap-Haïtien,Professionnel,2024-11-17
+C0083,35,M,Cap-Haïtien,Entreprise,2025-07-24
+C0084,44,F,Paris,Indépendant,2023-11-27
+C0085,35,F,Port-au-Prince,Indépendant,2024-05-28
+C0086,16,M,Jacmel,Étudiant,2024-03-25
+C0087,28,M,Les Cayes,Étudiant,2025-09-19
+C0088,20,F,Santo Domingo,Étudiant,2025-03-09
+C0089,25,M,Port-au-Prince,Étudiant,2024-01-24
+C0090,41,M,Fort-Liberté,Professionnel,2023-11-27
+C0091,34,M,Cap-Haïtien,Indépendant,2024-11-19
+C0092,23,M,,Indépendant,2023-12-22
+C0093,21,M,Port-au-Prince,Professionnel,2023-11-19
+C0094,29,F,Les Cayes,Professionnel,2025-01-01
+C0095,19,M,Jacmel,Indépendant,2023-09-29
+C0096,24,M,Port-au-Prince,Indépendant,2025-03-31
+C0097,31,M,Port-au-Prince,Étudiant,2025-05-14
+C0098,38,F,Port-au-Prince,Professionnel,2024-04-10
+C0099,34,F,Cap-Haïtien,Indépendant,2024-05-21
+C0100,16,M,Port-au-Prince,Étudiant,2025-08-12
+C0101,31,F,,Professionnel,2023-11-27
+C0102,30,Autre,Gonaïves,Indépendant,2025-06-19
+C0103,32,F,Montréal,Indépendant,2023-12-22
+C0104,42,M,Abidjan,Indépendant,2025-12-09
+C0105,16,M,Port-au-Prince,Entreprise,2023-12-29
+C0106,24,F,Fort-Liberté,Étudiant,2024-01-07
+C0107,34,F,Paris,Étudiant,2024-01-13
+C0108,16,M,Jérémie,Professionnel,2024-04-26
+C0109,41,M,Gonaïves,Professionnel,2024-10-17
+C0110,32,F,Gonaïves,Professionnel,2024-03-21
+C0111,36,M,Port-au-Prince,Professionnel,2025-04-10
+C0112,24,M,Jacmel,Professionnel,2024-01-13
+C0113,36,F,Kinshasa,Entreprise,2024-08-02
+C0114,38,F,Abidjan,Étudiant,2024-10-28
+C0115,31,F,Port-au-Prince,Étudiant,2024-09-16
+C0116,31,F,Santo Domingo,Étudiant,2024-07-22
+C0117,31,F,Cap-Haïtien,Étudiant,2025-11-12
+C0118,22,F,Dakar,Indépendant,2025-08-12
+C0119,28,M,Port-au-Prince,Professionnel,2025-05-09
+C0120,28,F,Dakar,Étudiant,2025-09-03
+C0121,32,M,Paris,Entreprise,2024-11-15
+C0122,37,F,Port-au-Prince,Professionnel,2024-04-23
+C0123,21,F,Port-au-Prince,Étudiant,2024-05-06
+C0124,28,M,Paris,Étudiant,2024-10-18
+C0125,41,M,Port-au-Prince,Étudiant,2023-11-07
+C0126,23,F,Jacmel,Professionnel,2024-07-25
+C0127,22,F,Dakar,Étudiant,2025-10-05
+C0128,31,F,Saint-Marc,Étudiant,2024-01-27
+C0129,36,M,Gonaïves,Étudiant,2024-07-16
+C0130,29,F,Les Cayes,Professionnel,2024-05-23
+C0131,40,F,Port-au-Prince,Étudiant,2024-07-25
+C0132,36,F,Abidjan,Indépendant,2024-08-04
+C0133,36,M,Cap-Haïtien,Étudiant,2025-09-25
+C0134,33,M,Port-au-Prince,Professionnel,2024-07-30
+C0135,48,M,Cap-Haïtien,Professionnel,2023-12-31
+C0136,27,M,Abidjan,Professionnel,2025-03-17
+C0137,16,F,Port-au-Prince,Étudiant,2024-06-21
+C0138,42,F,Paris,Entreprise,2025-11-18
+C0139,25,F,Santo Domingo,Indépendant,2025-02-06
+C0140,30,M,Paris,Étudiant,2024-11-17
+C0141,39,M,Abidjan,Étudiant,2023-07-15
+C0142,16,M,Paris,Indépendant,2025-06-05
+C0143,19,Autre,Abidjan,Professionnel,2025-04-11
+C0144,16,Autre,Port-au-Prince,Étudiant,2024-12-13
+C0145,23,M,Montréal,Étudiant,2023-07-06
+C0146,33,F,Saint-Marc,Professionnel,2023-11-08
+C0147,33,F,Saint-Marc,Entreprise,2025-11-14
+C0148,31,F,Paris,Professionnel,2025-05-19
+C0149,18,M,Abidjan,Indépendant,2023-12-07
+C0150,16,F,Santo Domingo,Professionnel,2025-10-24
+C0151,29,M,Les Cayes,Étudiant,2023-11-06
+C0152,25,M,,Professionnel,2025-04-06
+C0153,33,M,Gonaïves,Professionnel,2023-09-12
+C0154,35,F,Cap-Haïtien,Étudiant,2025-03-26
+C0155,30,F,Gonaïves,Étudiant,2024-11-20
+C0156,35,F,Port-au-Prince,Professionnel,2024-04-29
+C0157,31,M,Port-au-Prince,Entreprise,2025-08-24
+C0158,33,M,Montréal,Étudiant,2024-08-01
+C0159,23,M,Les Cayes,Professionnel,2024-09-17
+C0160,28,F,Dakar,Professionnel,2024-01-10
+C0161,31,F,Hinche,Professionnel,2023-07-03
+C0162,36,F,Port-au-Prince,Entreprise,2024-04-27
+C0163,26,M,Port-au-Prince,Entreprise,2024-12-12
+C0164,33,M,Port-au-Prince,Entreprise,2024-12-15
+C0165,27,F,,Étudiant,2024-12-04
+C0166,28,M,Port-au-Prince,Professionnel,2023-12-14
+C0167,36,F,Jacmel,Professionnel,2025-03-01
+C0168,16,M,Dakar,Étudiant,2025-07-18
+C0169,19,F,Abidjan,Étudiant,2025-02-18
+C0170,17,F,Port-au-Prince,Étudiant,2025-11-25
+C0171,16,M,Port-au-Prince,Professionnel,2025-09-11
+C0172,24,F,Port-au-Prince,Professionnel,2025-09-25
+C0173,35,F,Port-au-Prince,Étudiant,2024-01-21
+C0174,27,F,Port-au-Prince,Indépendant,2024-03-05
+C0175,31,F,Saint-Marc,Indépendant,2024-03-28
+C0176,38,M,Dakar,Étudiant,2024-10-26
+C0177,40,M,Jacmel,Indépendant,2024-03-10
+C0178,28,M,Jérémie,Étudiant,2025-07-23
+C0179,40,F,Port-au-Prince,Indépendant,2023-09-27
+C0180,30,M,Montréal,Indépendant,2024-09-21
+C0181,22,F,Hinche,Étudiant,2023-08-24
+C0182,24,F,Paris,Entreprise,2025-07-31
+C0183,17,F,Abidjan,Indépendant,2024-09-24
+C0184,22,M,Cap-Haïtien,Indépendant,2024-03-29
+C0185,26,M,Port-au-Prince,Indépendant,2024-09-25
+C0186,35,M,Port-au-Prince,Professionnel,2024-11-09
+C0187,43,M,Gonaïves,Étudiant,2025-07-19
+C0188,18,M,Abidjan,Indépendant,2025-01-07
+C0189,32,M,Cap-Haïtien,Professionnel,2025-05-15
+C0190,21,M,Montréal,Professionnel,2025-03-19
+C0191,33,F,Saint-Marc,Professionnel,2024-04-09
+C0192,28,F,Port-au-Prince,Professionnel,2024-05-27
+C0193,16,F,Cap-Haïtien,Étudiant,2024-06-17
+C0194,36,M,Fort-Liberté,Entreprise,2025-01-24
+C0195,24,M,Mirebalais,Étudiant,2023-08-05
+C0196,25,M,Gonaïves,Entreprise,2025-09-28
+C0197,20,F,Port-au-Prince,Indépendant,2025-02-10
+C0198,24,M,Santo Domingo,Professionnel,2025-08-31
+C0199,32,F,Port-au-Prince,Professionnel,2025-02-13
+C0200,27,F,Dakar,Étudiant,2023-08-03
+C0201,32,F,Port-au-Prince,Indépendant,2025-01-20
+C0202,32,F,Port-au-Prince,Entreprise,2023-09-20
+C0203,40,M,,Professionnel,2024-09-26
+C0204,26,F,Jacmel,Étudiant,2024-03-26
+C0205,17,M,Jacmel,Étudiant,2024-10-30
+C0206,38,F,Gonaïves,Professionnel,2025-04-20
+C0207,26,F,Kinshasa,Indépendant,2024-01-28
+C0208,38,M,Les Cayes,Entreprise,2023-07-27
+C0209,32,F,Les Cayes,Étudiant,2025-04-22
+C0210,28,Autre,Gonaïves,Indépendant,2024-01-15
+C0211,32,M,Port-au-Prince,Professionnel,2025-04-24
+C0212,45,M,Hinche,Indépendant,2024-03-10
+C0213,46,F,Port-au-Prince,Étudiant,2024-01-05
+C0214,30,F,Jérémie,Professionnel,2024-11-06
+C0215,30,M,Port-au-Prince,Indépendant,2024-02-21
+C0216,38,F,Kinshasa,Étudiant,2025-04-14
+C0217,22,F,Les Cayes,Professionnel,2025-10-05
+C0218,32,F,Paris,Indépendant,2025-09-20
+C0219,29,M,Les Cayes,Étudiant,2024-11-08
+C0220,32,M,Port-au-Prince,Étudiant,2023-09-25
+C0221,22,,Paris,Professionnel,2025-08-23
+C0222,16,M,Jérémie,Étudiant,2024-10-31
+C0223,16,F,Montréal,Étudiant,2024-03-22
+C0224,20,M,Gonaïves,Professionnel,2025-06-16
+C0225,25,F,Jérémie,Entreprise,2024-03-06
+C0226,27,M,Paris,Étudiant,2025-03-15
+C0227,44,F,Jérémie,Étudiant,2023-12-19
+C0228,38,Autre,Cap-Haïtien,Indépendant,2024-07-12
+C0229,21,F,Fort-Liberté,Professionnel,2024-08-10
+C0230,32,F,Mirebalais,Indépendant,2025-07-09
+C0231,26,F,Abidjan,Professionnel,2024-10-25
+C0232,27,F,Cap-Haïtien,Indépendant,2023-11-06
+C0233,30,F,Gonaïves,Professionnel,2025-11-28
+C0234,34,M,Paris,Étudiant,2024-02-02
+C0235,26,F,Jacmel,Indépendant,2024-09-28
+C0236,38,M,Santo Domingo,Professionnel,2024-03-08
+C0237,20,F,Les Cayes,Étudiant,2024-04-28
+C0238,29,M,Port-au-Prince,Étudiant,2024-11-22
+C0239,50,F,Santo Domingo,Professionnel,2025-03-13
+C0240,31,M,Port-au-Prince,Étudiant,2024-05-30
+C0241,40,M,Port-au-Prince,Étudiant,2025-08-11
+C0242,30,M,Jérémie,Étudiant,2024-07-08
+C0243,34,M,Santo Domingo,Professionnel,2025-09-21
+C0244,29,F,,Professionnel,2024-05-10
+C0245,28,F,Port-au-Prince,Professionnel,2024-05-29
+C0246,23,M,Port-au-Prince,Étudiant,2025-10-01
+C0247,32,M,Abidjan,Étudiant,2024-02-03
+C0248,22,F,Port-au-Prince,Professionnel,2024-12-06
+C0249,34,F,Port-au-Prince,Professionnel,2024-01-07
+C0250,38,M,Cap-Haïtien,Professionnel,2025-11-08
+C0251,32,M,Jacmel,Étudiant,2025-07-07
+C0252,27,Autre,Paris,Étudiant,2024-09-27
+C0253,33,M,Montréal,Étudiant,2025-06-29
+C0254,27,M,Santo Domingo,Professionnel,2025-02-22
+C0255,36,F,Port-au-Prince,Professionnel,2024-04-30
+C0256,16,M,Cap-Haïtien,Entreprise,2025-08-07
+C0257,26,F,Les Cayes,Professionnel,2024-04-15
+C0258,16,M,Port-au-Prince,Professionnel,2025-09-13
+C0259,17,F,Port-au-Prince,Professionnel,2025-07-11
+C0260,40,M,Cap-Haïtien,Étudiant,2024-07-05
+C0261,36,,Port-au-Prince,Professionnel,2024-01-01
+C0262,23,M,Saint-Marc,Étudiant,2025-07-15
+C0263,17,M,Santo Domingo,Professionnel,2025-03-21
+C0264,16,F,Port-au-Prince,Étudiant,2023-09-05
+C0265,25,M,Les Cayes,Entreprise,2023-07-09
+C0266,48,F,Montréal,Indépendant,2024-07-11
+C0267,32,F,Santo Domingo,Étudiant,2024-11-08
+C0268,25,F,Paris,Professionnel,2025-02-06
+C0269,33,F,Les Cayes,Entreprise,2024-06-12
+C0270,17,F,Paris,Étudiant,2024-07-02
+C0271,27,M,Port-au-Prince,Entreprise,2025-03-25
+C0272,30,M,Cap-Haïtien,Professionnel,2025-11-25
+C0273,28,M,Port-au-Prince,Indépendant,2025-08-01
+C0274,35,F,Les Cayes,Indépendant,2023-08-06
+C0275,32,F,Gonaïves,Étudiant,2024-12-04
+C0276,34,F,Port-au-Prince,Professionnel,2024-10-07
+C0277,23,M,Montréal,Professionnel,2024-10-21
+C0278,36,M,Cap-Haïtien,Étudiant,2024-01-11
+C0279,42,F,Port-au-Prince,Étudiant,2025-10-18
+C0280,21,M,Port-au-Prince,Indépendant,2025-10-02
+C0281,22,F,Gonaïves,Étudiant,2025-04-11
+C0282,40,F,Cap-Haïtien,Professionnel,2024-10-04
+C0283,27,F,Cap-Haïtien,Indépendant,2024-04-20
+C0284,40,F,Port-au-Prince,Étudiant,2024-09-30
+C0285,25,M,Montréal,Professionnel,2024-11-13
+C0286,41,M,Dakar,Indépendant,2023-08-24
+C0287,30,F,Les Cayes,Professionnel,2025-07-24
+C0288,31,M,Jérémie,Étudiant,2024-07-19
+C0289,42,M,Paris,Étudiant,2024-08-14
+C0290,26,M,Kinshasa,Indépendant,2024-10-15
+C0291,21,M,Hinche,Étudiant,2023-12-20
+C0292,25,F,Paris,Professionnel,2025-04-19
+C0293,33,,Dakar,Étudiant,2023-08-10
+C0294,16,F,Montréal,Professionnel,2025-02-20
+C0295,34,Autre,Les Cayes,Indépendant,2024-08-12
+C0296,25,F,Port-au-Prince,Professionnel,2024-09-03
+C0297,38,M,Port-au-Prince,Indépendant,2023-11-12
+C0298,16,F,Les Cayes,Étudiant,2024-11-15
+C0299,23,F,Les Cayes,Professionnel,2025-04-03
+C0300,16,M,Gonaïves,Indépendant,2025-11-26
+C0301,22,M,Saint-Marc,Professionnel,2025-01-22
+C0302,31,,Saint-Marc,Étudiant,2023-12-03
+C0303,28,M,Paris,Indépendant,2025-12-07
+C0304,27,M,Port-au-Prince,Professionnel,2023-10-01
+C0305,28,F,Port-au-Prince,Professionnel,2024-08-14
+C0306,unknown,M,Montréal,Indépendant,2025-08-11
+C0307,21,M,Paris,Étudiant,2025-03-19
+C0308,35,M,Kinshasa,Étudiant,2024-08-04
+C0309,34,F,Paris,Étudiant,2025-03-06
+C0310,32,F,Paris,Professionnel,2025-09-09
+C0311,33,M,Cap-Haïtien,Étudiant,2024-04-25
+C0312,31,M,Gonaïves,Professionnel,2024-04-19
+C0313,45,M,Port-au-Prince,Étudiant,2025-08-31
+C0314,28,Autre,Hinche,Professionnel,2025-04-06
+C0315,27,M,Dakar,Étudiant,2025-05-10
+C0316,23,M,Cap-Haïtien,Professionnel,2024-05-01
+C0317,21,M,Saint-Marc,Étudiant,2024-02-27
+C0318,19,M,Cap-Haïtien,Entreprise,2024-03-01
+C0319,22,F,Port-au-Prince,Professionnel,2023-08-24
+C0320,28,F,Port-au-Prince,Professionnel,2024-01-24
+C0321,32,M,Port-au-Prince,Indépendant,2025-03-02
+C0322,29,F,Abidjan,Professionnel,2025-09-10
+C0323,23,F,Gonaïves,Étudiant,2024-06-10
+C0324,36,M,Paris,Indépendant,2023-09-13
+C0325,35,F,Mirebalais,Étudiant,2023-07-22
+C0326,28,F,Port-au-Prince,Étudiant,2025-05-22
+C0327,24,M,Port-au-Prince,Professionnel,2025-05-17
+C0328,33,M,Paris,Étudiant,2025-11-12
+C0329,31,F,Port-au-Prince,Étudiant,2025-08-10
+C0330,17,F,Dakar,Entreprise,2024-08-03
+C0331,28,F,Port-au-Prince,Étudiant,2024-08-10
+C0332,31,M,Mirebalais,Entreprise,2025-01-16
+C0333,22,M,Paris,Indépendant,2025-03-12
+C0334,31,F,Port-au-Prince,Professionnel,2023-11-30
+C0335,17,M,Port-au-Prince,Entreprise,2024-10-27
+C0336,40,F,Abidjan,Entreprise,2023-12-19
+C0337,39,F,Port-au-Prince,Indépendant,2023-08-02
+C0338,27,Autre,Gonaïves,Étudiant,2025-03-05
+C0339,unknown,F,Gonaïves,Étudiant,2025-06-16
+C0340,16,F,Port-au-Prince,Professionnel,2023-08-11
+C0341,20,F,Montréal,Professionnel,2024-05-23
+C0342,27,M,,Étudiant,2025-03-29
+C0343,20,M,Cap-Haïtien,Professionnel,2024-06-04
+C0344,35,Autre,Paris,Étudiant,2024-09-08
+C0345,45,F,,Indépendant,2023-09-23
+C0346,20,F,,Étudiant,2025-04-29
+C0347,22,M,Saint-Marc,Étudiant,2023-07-07
+C0348,31,F,Kinshasa,Étudiant,2023-08-26
+C0349,42,M,Port-au-Prince,Étudiant,2025-07-06
+C0350,19,M,Port-au-Prince,Étudiant,2025-07-20
+C0351,31,F,Jacmel,Étudiant,2024-08-23
+C0352,44,M,Montréal,Étudiant,2025-11-05
+C0353,16,F,Port-au-Prince,Étudiant,2025-03-22
+C0354,19,F,,Professionnel,2024-11-19
+C0355,26,M,Santo Domingo,Professionnel,2023-07-27
+C0356,25,M,Cap-Haïtien,Étudiant,2023-07-06
+C0357,36,M,Port-au-Prince,Étudiant,2025-08-01
+C0358,31,M,Port-au-Prince,Étudiant,2023-10-05
+C0359,16,Autre,Gonaïves,Étudiant,2025-09-25
+C0360,33,Autre,Les Cayes,Étudiant,2024-02-11
+C0361,24,M,Paris,Entreprise,2023-11-15
+C0362,unknown,F,Jérémie,Indépendant,2023-10-06
+C0363,24,M,Santo Domingo,Indépendant,2025-05-28
+C0364,24,Autre,Kinshasa,Professionnel,2023-10-03
+C0365,33,F,Gonaïves,Professionnel,2025-09-02
+C0366,35,F,Gonaïves,Étudiant,2024-09-05
+C0367,33,F,Dakar,Entreprise,2024-10-19
+C0368,16,F,Port-au-Prince,Entreprise,2025-03-06
+C0369,33,M,Santo Domingo,Indépendant,2025-11-26
+C0370,21,F,Montréal,Indépendant,2024-01-21
+C0371,31,M,Port-au-Prince,Professionnel,2025-02-16
+C0372,18,M,Les Cayes,Entreprise,2024-04-29
+C0373,33,,Port-au-Prince,Entreprise,2024-12-11
+C0374,23,F,Port-au-Prince,Étudiant,2025-01-13
+C0375,19,F,Les Cayes,Indépendant,2023-10-10
+C0376,35,M,Cap-Haïtien,Étudiant,2025-09-21
+C0377,31,M,Montréal,Indépendant,2024-02-22
+C0378,24,M,Dakar,Entreprise,2024-02-12
+C0379,41,M,Montréal,Étudiant,2025-01-08
+C0380,25,F,Port-au-Prince,Professionnel,2025-04-23
+C0381,29,M,Port-au-Prince,Étudiant,2025-12-11
+C0382,31,F,,Entreprise,2023-08-25
+C0383,24,F,Port-au-Prince,Entreprise,2023-08-16
+C0384,33,M,Abidjan,Professionnel,2025-05-13
+C0385,25,F,Gonaïves,Indépendant,2025-11-17
+C0386,26,F,Port-au-Prince,Étudiant,2025-08-27
+C0387,40,F,Paris,Étudiant,2025-10-16
+C0388,21,F,Gonaïves,Professionnel,2023-11-28
+C0389,16,M,Port-au-Prince,Étudiant,2023-10-05
+C0390,42,F,Port-au-Prince,Professionnel,2025-07-31
+C0391,49,M,Jérémie,Étudiant,2024-02-12
+C0392,26,M,Montréal,Professionnel,2025-07-07
+C0393,16,F,Port-au-Prince,Professionnel,2025-01-19
+C0394,27,F,Dakar,Indépendant,2024-06-24
+C0395,27,M,Paris,Étudiant,2024-03-08
+C0396,27,M,Paris,Indépendant,2023-10-20
+C0397,20,M,Port-au-Prince,Professionnel,2025-11-05
+C0398,34,M,Port-au-Prince,Étudiant,2025-06-22
+C0399,33,F,Paris,Professionnel,2025-04-07
+C0400,17,F,Cap-Haïtien,Professionnel,2025-03-11
+C0401,35,M,Hinche,Étudiant,2023-07-01
+C0402,45,F,Montréal,Professionnel,2024-01-16
+C0403,30,M,Port-au-Prince,Étudiant,2025-03-02
+C0404,26,M,Montréal,Professionnel,2023-07-25
+C0405,28,M,Dakar,Professionnel,2024-09-22
+C0406,34,F,Santo Domingo,Professionnel,2024-09-21
+C0407,16,F,Les Cayes,Indépendant,2024-11-20
+C0408,30,F,Paris,Étudiant,2025-08-08
+C0409,26,F,Jacmel,Indépendant,2023-08-28
+C0410,44,M,Santo Domingo,Entreprise,2025-12-03
+C0411,28,F,Paris,Indépendant,2025-07-12
+C0412,42,F,Santo Domingo,Indépendant,2025-05-23
+C0413,20,F,Cap-Haïtien,Étudiant,2025-04-08
+C0414,34,F,Port-au-Prince,Professionnel,2025-08-19
+C0415,32,M,Port-au-Prince,Étudiant,2025-11-29
+C0416,22,F,Jacmel,Entreprise,2024-04-15
+C0417,30,Autre,Jacmel,Professionnel,2023-07-27
+C0418,39,,Saint-Marc,Étudiant,2025-08-28
+C0419,26,M,Gonaïves,Indépendant,2025-03-24
+C0420,16,F,Montréal,Étudiant,2024-09-16
+C0421,29,F,Dakar,Professionnel,2023-09-03
+C0422,22,M,Port-au-Prince,Entreprise,2024-03-31
+C0423,26,Autre,Santo Domingo,Étudiant,2024-01-26
+C0424,28,M,Mirebalais,Professionnel,2024-07-10
+C0425,16,F,Jacmel,Entreprise,2024-12-05
+C0426,16,F,Port-au-Prince,Étudiant,2025-06-19
+C0427,33,M,Montréal,Professionnel,2023-10-30
+C0428,25,F,Abidjan,Étudiant,2023-12-23
+C0429,16,M,Santo Domingo,Professionnel,2025-11-23
+C0430,35,M,Dakar,Étudiant,2024-03-12
+C0431,31,M,Kinshasa,Indépendant,2025-10-01
+C0432,23,M,Cap-Haïtien,Indépendant,2024-02-19
+C0433,18,,Jérémie,Étudiant,2023-12-03
+C0434,36,F,Les Cayes,Étudiant,2025-08-20
+C0435,32,F,Kinshasa,Professionnel,2024-11-20
+C0436,48,M,Port-au-Prince,Entreprise,2025-08-26
+C0437,32,M,Gonaïves,Professionnel,2024-07-23
+C0438,32,F,Paris,Étudiant,2023-09-03
+C0439,28,F,,Étudiant,2025-10-04
+C0440,36,M,Montréal,Indépendant,2024-12-23
+C0441,34,M,Gonaïves,Professionnel,2023-07-24
+C0442,39,M,Abidjan,Indépendant,2025-03-20
+C0443,25,F,,Professionnel,2025-08-19
+C0444,26,F,Cap-Haïtien,Indépendant,2024-10-02
+C0445,25,M,Montréal,Étudiant,2024-09-14
+C0446,35,F,Cap-Haïtien,Étudiant,2024-04-28
+C0447,41,M,Hinche,Indépendant,2025-03-08
+C0448,25,M,Fort-Liberté,Indépendant,2023-08-08
+C0449,26,F,Paris,Étudiant,2024-09-03
+C0450,32,F,Port-au-Prince,Professionnel,2025-04-02
+C0451,unknown,F,Port-au-Prince,Professionnel,2023-08-04
+C0452,37,M,Santo Domingo,Professionnel,2023-09-05
+C0453,16,M,Saint-Marc,Étudiant,2024-09-22
+C0454,22,F,Les Cayes,Indépendant,2025-11-23
+C0455,23,,Port-au-Prince,Étudiant,2024-06-26
+C0456,16,F,Cap-Haïtien,Entreprise,2024-08-03
+C0457,21,M,Paris,Étudiant,2025-08-04
+C0458,22,M,Port-au-Prince,Étudiant,2024-05-24
+C0459,27,F,Gonaïves,Professionnel,2023-11-20
+C0460,38,F,Abidjan,Étudiant,2025-09-11
+C0461,27,M,Port-au-Prince,Professionnel,2024-03-05
+C0462,21,F,Santo Domingo,Étudiant,2025-08-11
+C0463,29,M,Port-au-Prince,Indépendant,2024-02-11
+C0464,37,F,Paris,Entreprise,2024-12-03
+C0465,21,F,Santo Domingo,Indépendant,2025-12-10
+C0466,22,F,Paris,Étudiant,2023-07-30
+C0467,33,F,Port-au-Prince,Étudiant,2025-07-19
+C0468,27,F,Jacmel,Professionnel,2024-06-27
+C0469,34,F,Montréal,Professionnel,2025-07-05
+C0470,29,M,Port-au-Prince,Étudiant,2023-08-29
+C0471,35,F,Port-au-Prince,Étudiant,2024-02-20
+C0472,21,F,Port-au-Prince,Professionnel,2023-12-23
+C0473,29,F,Abidjan,Étudiant,2024-11-22
+C0474,27,F,Santo Domingo,Professionnel,2024-10-21
+C0475,19,F,Jérémie,Étudiant,2024-05-24
+C0476,16,M,Santo Domingo,Étudiant,2024-01-09
+C0477,34,F,Jacmel,Professionnel,2023-11-14
+C0478,26,M,Les Cayes,Professionnel,2025-11-29
+C0479,21,M,Les Cayes,Étudiant,2024-04-27
+C0480,28,F,Jérémie,Professionnel,2025-09-08
+C0481,38,F,Port-au-Prince,Entreprise,2025-03-31
+C0482,16,F,Paris,Professionnel,2023-11-30
+C0483,17,M,Paris,Professionnel,2025-05-04
+C0484,22,F,Cap-Haïtien,Indépendant,2023-12-29
+C0485,41,M,Saint-Marc,Professionnel,2024-10-25
+C0486,31,M,Port-au-Prince,Indépendant,2025-05-20
+C0487,35,M,Abidjan,Entreprise,2025-02-18
+C0488,20,M,Dakar,Étudiant,2024-08-25
+C0489,20,Autre,Dakar,Professionnel,2024-01-27
+C0490,33,F,Cap-Haïtien,Professionnel,2024-06-18
+C0491,29,F,Port-au-Prince,Indépendant,2023-08-29
+C0492,33,F,Port-au-Prince,Professionnel,2023-10-27
+C0493,27,M,Port-au-Prince,Étudiant,2024-02-06
+C0494,31,M,Port-au-Prince,Professionnel,2024-06-21
+C0495,30,M,Port-au-Prince,Étudiant,2025-03-30
+C0496,35,F,Kinshasa,Entreprise,2024-12-09
+C0497,35,Autre,Port-au-Prince,Professionnel,2025-08-30
+C0498,16,M,Port-au-Prince,Entreprise,2025-01-13
+C0499,16,M,Paris,Indépendant,2023-09-04
+C0500,37,Autre,Saint-Marc,Professionnel,2024-11-27
