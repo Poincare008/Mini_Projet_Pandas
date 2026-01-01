@@ -3,11 +3,11 @@
 
 # Mini_Projet_Pandas
 
- _Professeur_: Dr. Evens TOUSSAINT
-   
- _Etudiant_: Jameson PIERREVILLE
-             Fabrice HERARD
-             Steve CALIXTE
+**Professeur**: Dr. Evens TOUSSAINT
+
+**Etudiant**: Jameson PIERREVILLE
+               Fabrice HERARD
+               Steve CALIXTE
 
 
 
