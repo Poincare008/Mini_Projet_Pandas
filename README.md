@@ -6,8 +6,8 @@
 **Professeur**: Dr. Evens TOUSSAINT
 
 **Etudiant**: Jameson PIERREVILLE
-               Fabrice HERARD
-               Steve CALIXTE
+              Fabrice HERARD
+              Steve CALIXTE
 
 
 
