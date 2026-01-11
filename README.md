@@ -36,3 +36,18 @@ Comme outil collaboratif, nous utiliserons _GitHub_, qui nous permettra d’héb
 
 
 ## Analyse & Resultat
+### Rapport d’audit  sur la qualité des données.
+Après l’importation des datasets customers, products et order_lines, plusieurs anomalies et valeurs manquantes ont été identifiées:   
+- La colonne age contient des valeurs manquantes et des entrées non numériques (unknown).
+- Des valeurs manquantes sont présentes dans gender, city et review_score.
+- discount_pct est parfois stocké sous forme de texte.
+- quantity contient des valeurs négatives ou nulles.
+- delivery_days contient des valeurs extrêmes.
+- Les dates sont stockées en texte.
+
+###  Rapport d’audit des données : analyse des jointures
+- Vérification des clients non trouvés dans la table order_customers : certaines informations manquent.  
+- Nombre de ventes associées à des clients manquants : 159.  
+- Contrôle des écarts sur le montant brut (gross_amount) a identifié 6 lignes suspectes.  
+- Certaines clés primaires apparaissent dans d’autres colonnes similaires, ce qui peut créer des doublons ou des ambiguïtés.  
+- Des suffixes ont été ajoutés pour identifier clairement à quelles données appartiennent ces lignes, facilitant le suivi et la correction.
